@@ -2,7 +2,6 @@
 
 A GUI application for comparing text files built with Qt and C++.
 
-![Application Screenshot](screenshot.png) *(You can add a screenshot later)*
 
 ## Features
 - Side-by-side text comparison
