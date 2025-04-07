@@ -27,5 +27,4 @@ Run the compiled executable:
 ./GuiTextComparator
 ```
 
-## License
-[MIT](LICENSE) *(You can add a LICENSE file later)*
+
